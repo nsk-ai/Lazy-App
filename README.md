@@ -29,7 +29,7 @@ scoop install ffmpeg
 ## Tasks
 - [ ] Run the model locally first
 - [ ] Streamlit  
-  - [ ] Create Homepage integrate NSK.ai logo
+  - [x] Create Homepage integrate NSK.ai logo
   - [ ] Host on Streamlit cloud
   - [ ] Integrate python (low-level API) with streamlit
   - [ ] Accept audio input with streamlit audio input
