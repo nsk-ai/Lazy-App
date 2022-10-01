@@ -1,7 +1,7 @@
 # Lazy-App
 
 ## Setup
-Fork the repo
+Fork the repo  
 Run these commands to setup the required packages for the model
 ```bash
 pip install git+https://github.com/openai/whisper.git 
