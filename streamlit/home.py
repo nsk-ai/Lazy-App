@@ -7,4 +7,4 @@ st.set_page_config(
 
 st.write("# Welcome to the Lazy App")
 
-st.sidebar.success("Access the model here")
+st.sidebar.success("Select any of the options above")
